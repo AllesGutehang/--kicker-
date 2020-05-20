@@ -4,4 +4,19 @@
 
 ## 基本思路
 
+## 环境
+python 3.7  windows10
+
+## 所需要的库
+request
+
+beautifulsoup4
+
+lxml
+
+re
+
+openpyxl
+
+time
 
