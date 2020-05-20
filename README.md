@@ -9,7 +9,11 @@
 
 2.进入各俱乐部页面，获取球员url
 
-！[球队球员总览页面]()
+![球队球员总览页面](https://github.com/AllesGutehang/python-spider-kicker-footballplayer-data/blob/master/%E7%90%83%E9%98%9F%E7%90%83%E5%91%98%E6%80%BB%E8%A7%88%E9%A1%B5%E9%9D%A2.jpg)
+
+3.获取各球员基本信息
+
+![具体球员基本信息页面](https://github.com/AllesGutehang/python-spider-kicker-footballplayer-data/blob/master/%E5%85%B7%E4%BD%93%E7%90%83%E5%91%98%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2.jpg)
 ## 环境
 python 3.7  windows10
 
