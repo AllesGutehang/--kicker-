@@ -6,6 +6,10 @@
 1.先从赛季总览页面获取各俱乐部url
 
 ![kicker赛季总览页面](https://github.com/AllesGutehang/python-spider-kicker-footballplayer-data/blob/master/%E8%B5%9B%E5%AD%A3%E6%80%BB%E8%A7%88%E9%A1%B5%E9%9D%A2.jpg)
+
+2.进入各俱乐部页面，获取球员url
+
+！[球队球员总览页面]()
 ## 环境
 python 3.7  windows10
 
