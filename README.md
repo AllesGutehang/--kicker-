@@ -14,6 +14,14 @@
 3.获取各球员基本信息
 
 ![具体球员基本信息页面](https://github.com/AllesGutehang/python-spider-kicker-footballplayer-data/blob/master/%E5%85%B7%E4%BD%93%E7%90%83%E5%91%98%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2.jpg)
+
+4.获取各球员比赛数据
+
+![具体球员比赛数据](https://github.com/AllesGutehang/python-spider-kicker-footballplayer-data/blob/master/%E5%85%B7%E4%BD%93%E7%90%83%E5%91%98%E6%AF%94%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%A1%B5%E9%9D%A2.jpg)
+
+具体爬取的数据，见excel里内容
+
+备注：推荐一个赛季爬一次，保证稳定性，避免反爬和网络连接问题
 ## 环境
 python 3.7  windows10
 
